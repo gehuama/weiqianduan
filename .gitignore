@@ -1,5 +1,8 @@
 .DS_Store
-*/node_modules
+/qiankun-react/node_modules
+/vue-qian-ts/node_modules
+/vue-qiankun-base/node_modules
+/vue-qiankun-js/node_modules
 /dist
 
 
